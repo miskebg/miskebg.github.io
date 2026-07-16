@@ -14,7 +14,7 @@ const translations = {
     heroCardTitle: "Business web apps, backend systems and integrations.",
     miniApps: "apps",
     miniPerf: "faster",
-    miniApi: "API/day",
+    miniApi: "API requests/day",
     profileKicker: "Profile",
     profileTitle: "A developer who connects code with real business workflows.",
     profileText:
@@ -81,11 +81,11 @@ const translations = {
     heroCardTitle: "Poslovne web aplikacije, backend sistemi i integracije.",
     miniApps: "aplikacija",
     miniPerf: "brže",
-    miniApi: "API/dan",
+    miniApi: "API zahteva/dan",
     profileKicker: "Profil",
     profileTitle: "Developer koji spaja kod sa stvarnim poslovnim tokovima.",
     profileText:
-      "Isporučivao sam prilagođena rešenja za HoReCa, SaaS, retail i servisne industrije, uključujući ERP integracije, sisteme za poručivanje, analitičke dashboard-e, loyalty tokove i digitalne ugovore. Najjači sam u prevođenju operativnih potreba u održiv softver koji je jasan korisnicima i koristan biznisu.",
+      "Isporučivao sam prilagođena rešenja za HoReCa, SaaS, retail i servisne industrije, uključujući ERP integracije, sisteme za poručivanje, analitičke dashboard-e, loyalty tokove i digitalne ugovore. Posebno sam fokusiran na prevođenje operativnih potreba u održiv softver koji je jasan korisnicima i koristan biznisu.",
     metricApps: "prilagođenih web aplikacija isporučeno",
     metricPerformance: "ubrzanje performansi kroz backend i optimizaciju baze",
     metricApi: "dnevnih API zahteva u produkcionim sistemima",
@@ -136,8 +136,8 @@ const translations = {
 };
 
 const cvFiles = {
-  en: "assets/Milos_Komljen_CV_EN2026.docx",
-  sr: "assets/Milos_Komljen_CV_SR2026.docx",
+  en: "assets/Milos_Komljen_CV_EN2026.pdf",
+  sr: "assets/Milos_Komljen_CV_SR2026.pdf",
 };
 
 function applyLanguage(lang) {
