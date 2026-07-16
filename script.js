@@ -6,6 +6,7 @@ const translations = {
     navContact: "Contact",
     downloadCv: "Download CV",
     availability: "Available for remote, hybrid and freelance work",
+    heroIntro: "Hi, I'm Miloš Komljen",
     heroTitle: "I build Laravel/PHP systems that make business operations faster.",
     heroCopy:
       "Custom web applications, REST API integrations, admin panels, dashboards and workflow automation for companies that need practical software, not noise.",
@@ -73,6 +74,7 @@ const translations = {
     navContact: "Kontakt",
     downloadCv: "Preuzmi CV",
     availability: "Dostupan za remote, hybrid i freelance rad",
+    heroIntro: "Zdravo, ja sam Miloš Komljen",
     heroTitle: "Pravim Laravel/PHP sisteme koji ubrzavaju poslovne procese.",
     heroCopy:
       "Prilagođene web aplikacije, REST API integracije, admin paneli, dashboard-i i automatizacija tokova rada za firme kojima treba praktičan softver, bez suvišne buke.",
